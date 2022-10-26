@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Open+Sans:wght@400;700&display=swap');
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: #e96443;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #904e95, #e96443);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #904e95, #e96443); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h1, h2 {
+  font-family: 'Anton', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom style */
+
+.btn-red {
+  background-color: #B72601;
+  color: rgb(240,240,240);
+  padding: 16px 24px;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.btn-red:hover {
+  background-color: #47BECA;
+  transition: 1s;
+}
+
+.card-white {
+  width: 500px;
+  margin: 24px auto;
+  text-align: center;
+  box-shadow: 0 0 16px rgb(0 0 0 / 20%);
+  padding: 48px;
+  background-color: rgb(250,250,250);
+  box-shadow: 0 0 16px rgba(0,0,0,0.3);
+}
+
+.img-circle {
+  width: 120px;
+  border-radius: 50%;
+  height: 120px;
+  object-fit: cover;
+  object-position: 50% 30%;
+  box-shadow: 8px 8px 8px rgb(0 0 0 / 30%);
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline;
+  font-size: 36px;
+}
+
+.list-inline a {
+  color: grey;
+}
+
+
+/* Ctrl + shift + up/down for Win => move code line up/down */
+/* Option + up/down for Mac => move code line up/down */

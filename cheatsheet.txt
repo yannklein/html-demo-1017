@@ -1,0 +1,22 @@
+
+background: #355C7D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #C06C84, #6C5B7B, #355C7D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #C06C84, #6C5B7B, #355C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+font-family: 'Anton', sans-serif;
+
+<p>I love wearing sunglasses, showing my muscles and coding with Ruby.</p>
+I love <strong>wearing sunglasses 😎</strong>
+I love <strong>showing my muscles 💪</strong>
+I love <strong>coding with Ruby 💎</strong>
+
+https://fr.wikipedia.org/wiki/Dwayne_Johnson
+
+I am really passionate about it. I'm literally living for it. True story.
+
+<!-- control + cmd + space -->
+<!-- windows + , -->
+
+<script src="https://kit.fontawesome.com/3926274332.js" 
